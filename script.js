@@ -82,7 +82,7 @@ var overlay;
           if(zoom<=9){
             return getMarsTileUrl("http://mw1.google.com/mw-planetary/mars/visible/", coord, zoom);
           }else{
-          	return "http://mars3dmap.com/images/no-image.png";
+          	return "http://mars.luhui.net/images/no-image.png";
           }
         });
       },
