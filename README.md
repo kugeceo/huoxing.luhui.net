@@ -3,6 +3,10 @@
 # 鲁虺火星地图 luhui Mars 3D Map
 http://mars.luhui.net
 
+申请谷歌api改网页第17行的域名所属api
+
+修改buttons.js第11行
+
 # Deploy status badge部署状态徽章
 
 This image automatically updates to reflect the current state of your latest production deploy. You can use the markdown snippet below to add it to your project README.
